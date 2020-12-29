@@ -1,3 +1,4 @@
+require 'pry'
 def third_challenge
   epic_tragedy = {
    :montague => {
@@ -6,6 +7,7 @@ def third_challenge
         age: {'53'}
         #your key/value pairs here
         },
+        binding.pry
       :matriarch => {
         name: {'Lady Montague'},
         age: {'54'}
