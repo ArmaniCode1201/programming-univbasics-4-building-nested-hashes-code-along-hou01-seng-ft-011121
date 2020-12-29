@@ -1,4 +1,4 @@
-require 'pry'
+
 def third_challenge
   epic_tragedy = {
    :montague => {
@@ -43,4 +43,3 @@ def third_challenge
 
 
 end
-binding.pry
